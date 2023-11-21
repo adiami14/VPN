@@ -26,9 +26,9 @@
 #include <openssl/opensslv.h>
 #include <pthread.h>
 
-#include "../../include/vpn_ssl.h"
-#include "../../include/vpn.h"
-#include "../../../cyber/include/network_utils.h"
+#include "../include/vpn_ssl.h"
+#include "../include/vpn.h"
+#include "../include/network_utils.h"
 
 #define BUFFER_SIZE (1024)
 #define M (4)
